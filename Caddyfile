@@ -1,0 +1,7 @@
+# Tells the little web server which port to listen on (Railway provides $PORT)
+# and where the website files live. That's the whole config.
+:{$PORT:80}
+
+root * /srv
+encode gzip
+file_server
