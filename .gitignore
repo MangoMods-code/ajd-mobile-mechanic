@@ -1,0 +1,8 @@
+# Local tooling / editor / OS junk — never goes to GitHub or the live site
+.claude/
+.vs/
+.vscode/
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
