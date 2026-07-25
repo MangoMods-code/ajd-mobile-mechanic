@@ -1,6 +1,6 @@
-# Tells the little web server which port to listen on (Railway provides $PORT)
-# and where the website files live. That's the whole config.
-:{$PORT:80}
+# Listen on the port Railway provides ($PORT); fall back to 8080, which is
+# Railway's default target port, so it works whether or not PORT is injected.
+:{$PORT:8080}
 
 root * /srv
 encode gzip

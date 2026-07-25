@@ -3,3 +3,5 @@
 FROM caddy:2-alpine
 COPY Caddyfile /etc/caddy/Caddyfile
 COPY . /srv
+# Hint to Railway which port the site is served on
+EXPOSE 8080
