@@ -46,38 +46,38 @@
       },
       {
         keywords: ["price", "cost", "how much", "quote", "precio", "cuánto", "cuanto", "costo", "cotiza"],
-        en: "Rough starting prices: oil change from $69, brakes from $145/axle, battery from $59+battery, diagnostics $49 (credited if repaired), alternator from $180+parts. Exact price depends on your vehicle — book a slot and we'll confirm before touching anything.",
-        es: "Precios base aproximados: cambio de aceite desde $69, frenos desde $145/eje, batería desde $59+batería, diagnóstico $49 (acreditado si reparas), alternador desde $180+piezas. El precio exacto depende de tu vehículo — reserva y te confirmamos antes de tocar nada."
+        en: "Every job gets a straightforward quote — call or text (845) 720-2863 with your vehicle and what's going on, and we'll give you a real number, no runaround. Or book a slot and we'll confirm everything before touching anything.",
+        es: "Cada trabajo lleva una cotización clara — llama o escribe al (845) 720-2863 con tu vehículo y lo que pasa, y te damos un número real, sin vueltas. O reserva y te confirmamos todo antes de tocar nada."
       },
       {
         keywords: ["brake", "freno"],
-        en: "Brake pads & rotors start at $145 per axle, including a full caliper inspection. Want to lock in a time?",
-        es: "Pastillas y rotores desde $145 por eje, con inspección completa de calipers incluida. ¿Quieres apartar un horario?"
+        en: "Brake pads & rotors including a full caliper inspection — call or text for a straightforward quote on your vehicle. Want to lock in a time?",
+        es: "Pastillas y rotores con inspección completa de calipers incluida — llama o escribe para una cotización clara para tu vehículo. ¿Quieres apartar un horario?"
       },
       {
         keywords: ["battery", "batería", "bateria"],
-        en: "Battery testing is free on most visits, and a replacement runs from $59 plus the battery itself — load-tested and swapped curbside.",
-        es: "La prueba de batería es gratis en la mayoría de visitas, y el reemplazo va desde $59 más la batería — probada bajo carga y cambiada en la acera."
+        en: "Battery testing is free on most visits, and replacements are load-tested and swapped curbside — call or text for a straightforward quote on the battery you need.",
+        es: "La prueba de batería es gratis en la mayoría de visitas, y los reemplazos se prueban bajo carga y se cambian en la acera — llama o escribe para una cotización clara de la batería que necesitas."
       },
       {
         keywords: ["oil", "aceite"],
-        en: "Oil & filter changes start at $69 and usually take 30–45 minutes, done right in your driveway.",
-        es: "El cambio de aceite y filtro va desde $69 y suele tomar 30–45 minutos, hecho en tu propia entrada."
+        en: "Oil & filter changes usually take 30–45 minutes, done right in your driveway — call or text for a straightforward quote.",
+        es: "El cambio de aceite y filtro suele tomar 30–45 minutos, hecho en tu propia entrada — llama o escribe para una cotización clara."
       },
       {
         keywords: ["engine light", "check engine", "diagnostic", "obd", "diagnóstico", "diagnostico"],
-        en: "A full check-engine diagnostic is $49, and that fee is credited toward the repair if you have it fixed with us.",
-        es: "El diagnóstico completo de check engine cuesta $49, y se acredita a la reparación si la haces con nosotros."
+        en: "We run a full check-engine diagnostic and give you a straightforward quote before any repair — call or text and we'll get you scheduled.",
+        es: "Hacemos un diagnóstico completo de check engine y te damos una cotización clara antes de cualquier reparación — llama o escribe y te agendamos."
       },
       {
         keywords: ["alternator", "starter", "charging", "alternador", "arranque", "carga"],
-        en: "We test the charging system first (so you're not paying to swap a part that isn't the issue) — alternator/starter work starts at $180 plus parts.",
-        es: "Primero probamos el sistema de carga (para que no pagues por cambiar una pieza que no era) — alternador/arranque desde $180 más piezas."
+        en: "We test the charging system first (so you're not paying to swap a part that isn't the issue) — call or text for a straightforward quote on alternator/starter work.",
+        es: "Primero probamos el sistema de carga (para que no pagues por cambiar una pieza que no era) — llama o escribe para una cotización clara del trabajo de alternador/arranque."
       },
       {
         keywords: ["cooling", "coolant", "overheat", "radiator", "thermostat", "water pump", "temperature", "sobrecalienta", "refrigerante", "radiador", "termostato", "enfriamiento"],
-        en: "Cooling system work starts at $95 plus parts — radiator, thermostat, hoses, and water pump. If you're overheating, pull over and call; we come to you before it turns into a blown head gasket.",
-        es: "El trabajo del sistema de enfriamiento va desde $95 más piezas — radiador, termostato, mangueras y bomba de agua. Si se está sobrecalentando, oríllate y llama; vamos hasta ti antes de que se convierta en un empaque de culata quemado."
+        en: "Cooling system work covers radiator, thermostat, hoses, and water pump — call or text for a straightforward quote. If you're overheating, pull over and call; we come to you before it turns into a blown head gasket.",
+        es: "El trabajo del sistema de enfriamiento cubre radiador, termostato, mangueras y bomba de agua — llama o escribe para una cotización clara. Si se está sobrecalentando, oríllate y llama; vamos hasta ti antes de que se convierta en un empaque de culata quemado."
       },
       {
         keywords: ["book", "appointment", "schedule", "reserve", "reserv", "cita", "agendar"],
