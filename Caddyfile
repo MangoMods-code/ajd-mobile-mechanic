@@ -1,6 +1,6 @@
-# Listen on the port Railway provides ($PORT); fall back to 8080, which is
-# Railway's default target port, so it works whether or not PORT is injected.
-:{$PORT:8080}
+# Serve on a fixed, known port so Railway's public domain can target it
+# reliably (set the domain's target port to 8080 in Railway → Networking).
+:8080
 
 root * /srv
 encode gzip
