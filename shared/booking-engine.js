@@ -26,7 +26,7 @@
     storageKey: "ajd_bookings",             // where finished bookings are stored
     slotsKey: "ajd_taken_slots",            // where "taken" date+time combos are stored
     businessName: "AJD Mobile Mechanic",
-    phone: "(845) 720-2863",
+    phone: "(845) 898-2927",
     // Where finished bookings get sent so they reach the owner. Both optional,
     // set from index.html via window.AJD_CONFIG:
     //  - endpoint: a Formspree URL → email record of every booking
