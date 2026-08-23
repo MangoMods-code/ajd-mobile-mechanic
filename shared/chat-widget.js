@@ -16,8 +16,8 @@
   const DEFAULTS = {
     position: "right", // "right" or "left"
     businessName: "AJD Mobile Mechanic",
-    phone: "(845) 720-2863",
-    phoneHref: "tel:+18457202863",
+    phone: "(845) 898-2927",
+    phoneHref: "tel:+18458982927",
     // Everything user-facing exists in English and Spanish; the page's ES/EN
     // toggle sets window.AJD_LANG and calls AJDChat.setLang(). Rule keywords
     // include both languages so typed questions match either way.
@@ -46,8 +46,8 @@
       },
       {
         keywords: ["price", "cost", "how much", "quote", "precio", "cuánto", "cuanto", "costo", "cotiza"],
-        en: "Every job gets a straightforward quote — call or text (845) 720-2863 with your vehicle and what's going on, and we'll give you a real number, no runaround. Or book a slot and we'll confirm everything before touching anything.",
-        es: "Cada trabajo lleva una cotización clara — llama o escribe al (845) 720-2863 con tu vehículo y lo que pasa, y te damos un número real, sin vueltas. O reserva y te confirmamos todo antes de tocar nada."
+        en: "Every job gets a straightforward quote — call or text (845) 898-2927 with your vehicle and what's going on, and we'll give you a real number, no runaround. Or book a slot and we'll confirm everything before touching anything.",
+        es: "Cada trabajo lleva una cotización clara — llama o escribe al (845) 898-2927 con tu vehículo y lo que pasa, y te damos un número real, sin vueltas. O reserva y te confirmamos todo antes de tocar nada."
       },
       {
         keywords: ["brake", "freno"],
@@ -87,13 +87,13 @@
       },
       {
         keywords: ["call", "phone", "text", "number", "llamar", "teléfono", "telefono", "número", "numero", "mensaje"],
-        en: "You can reach us directly at (845) 720-2863 — call or text, whichever's easier.",
-        es: "Nos encuentras directo al (845) 720-2863 — llamada o mensaje, lo que te quede más fácil."
+        en: "You can reach us directly at (845) 898-2927 — call or text, whichever's easier.",
+        es: "Nos encuentras directo al (845) 898-2927 — llamada o mensaje, lo que te quede más fácil."
       },
       {
         keywords: ["warranty", "guarantee", "garantía", "garantia"],
-        en: "Call or text (845) 720-2863 and we'll walk you through exactly how we stand behind the work before you book anything.",
-        es: "Llama o manda mensaje al (845) 720-2863 y te explicamos exactamente cómo respaldamos el trabajo antes de reservar."
+        en: "Call or text (845) 898-2927 and we'll walk you through exactly how we stand behind the work before you book anything.",
+        es: "Llama o manda mensaje al (845) 898-2927 y te explicamos exactamente cómo respaldamos el trabajo antes de reservar."
       },
       {
         keywords: ["certif", "ase", "license", "insured", "bonded", "licencia", "asegurado"],
