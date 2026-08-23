@@ -12,9 +12,9 @@
 
   const DEFAULTS = {
     position: "left", // opposite side from the chat widget by default
-    phoneDisplay: "(845) 720-2863",
-    phoneHref: "tel:+18457202863",
-    smsHref: "sms:+18457202863",
+    phoneDisplay: "(845) 898-2927",
+    phoneHref: "tel:+18458982927",
+    smsHref: "sms:+18458982927",
     email: "", // no public email yet — leave blank to hide the option
     facebookHref: "https://www.facebook.com/p/AJD-Mobile-Mechanic-61581121402634/",
     i18n: {
