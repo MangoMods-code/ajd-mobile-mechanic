@@ -15,6 +15,7 @@
      is great for a demo/mockup. For the real live site, the bookings
      should eventually be saved to a real database so all visitors, on any
      device, see the same taken slots. That's a "phase 2" upgrade.
+     waddup nigga
    ========================================================================== */
 
 (function () {
